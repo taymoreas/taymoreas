@@ -1,13 +1,10 @@
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=32&pause=1000&color=D398F7&center=true&random=false&width=800&height=100&lines=Hi+there!+Welcome+to+my+GitHub+profile+%3C3" alt="Typing SVG" /></a>
 
 <h2 style="color: #D398F7FF">About me</h2>
 
-<p>Oi, meu nome é Tayná. Sou uma estudante de programação em busca de conhecimento e 
-crescimento.</p>
 <p>Hi, my name is Tayná. I'm a programming student seeking knowledge and growth!</p><br>
 
-<img src="https://media1.tenor.com/m/vTrCiGRutPoAAAAC/parrot-with-hair.gif" height="55px" width="55px">
+<img style="text-aling:center" src="https://media1.tenor.com/m/vTrCiGRutPoAAAAC/parrot-with-hair.gif" height="155px" width="155px">
 
 <br>
 
@@ -25,7 +22,7 @@ crescimento.</p>
 
 <div>
     <a href="https://github.com/taymoreas">
-    <img loading="lazy" width="120px" height="70px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymoreas&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" width="220px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymoreas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 
