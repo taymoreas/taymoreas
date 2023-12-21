@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=32&pause=1000&color=D398F7&center=true&random=false&width=800&height=100&lines=Hi+there!+Welcome+to+my+GitHub+profile+%3C3" alt="Typing SVG" /></a>
-
 <h2 style="color: #D398F7FF">About me</h2>
 
 <p>Hi, my name is Tayná. I'm a programming student seeking knowledge and growth!</p><br>
 
-<img style="text-aling:center" src="https://media1.tenor.com/m/vTrCiGRutPoAAAAC/parrot-with-hair.gif" height="155px" width="155px">
+- Technique Back-end programmer;
+- I'm interested in the front end area;
+- I love writing in CSS, HTML.
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <div>
     <a href="https://github.com/taymoreas">
-    <img loading="lazy" width="220px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymoreas&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" width="420px" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymoreas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 
@@ -33,6 +33,8 @@
     <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:taymoraesjulia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<img style="aling-items:center" src="https://media1.tenor.com/m/vTrCiGRutPoAAAAC/parrot-with-hair.gif" height="155px" width="155px">
 <br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=taymoreas&label=Profile%20Views&color=12&icon=0&pretty=true" />
