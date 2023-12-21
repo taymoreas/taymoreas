@@ -3,7 +3,7 @@
 ## About me
 
 <p>Oi, meu nome é Tayná. Sou uma estudante de programação em busca de conhecimento e 
-crescimento.</p><br>
+crescimento.</p>
 <p>Hi, my name is Tayná. I'm a programming student seeking knowledge and growth!</p><br>
 
 ## Developing and learning:
